@@ -1,0 +1,60 @@
+body {
+    background-color: #FFEB3B; /* Fondo amarillo */
+    font-family: Arial, sans-serif; /* Fuente general */
+    color: #333; /* Color de texto general */
+    margin: 0;
+    padding: 0;
+}
+
+#titulo3 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #6A1B9A; /* Morado */
+    text-align: center;
+    background-color: #FFEB3B; /* Fondo amarillo para resaltar */
+    padding: 20px 0;
+    margin: 0;
+    border-bottom: 5px solid #6A1B9A; /* Borde morado abajo */
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: #6A1B9A; /* Morado */
+    padding: 15px 0;
+    margin: 0;
+    border-radius: 10px;
+    width: 100%;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 10px 20px;
+}
+
+/* Estilo para las listas */
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+
+h1 img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+br {
+    margin-top: 20px;
+}
